@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+  .descripcion-proyecto{
+    display: inline-block;
+    flex-direction: column;
+    margin: 5%;
+  }
+
+  .imagenes-proyectos{
+    width: 150;
+    height: 150px;
+    border-style: solid;
+    border-color: green;
+    border-width: 4px;
+  }
+  
